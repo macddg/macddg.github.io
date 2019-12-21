@@ -3,8 +3,6 @@
 
 访问小呆导航源项目: [github](https://github.com/xiaodai945/WEBJIKE)
 
-这是导航界面
-![snapshot](http://www.bituplink.com/wp-content/uploads/35c1275aefaecd0.png)
 
 主要修改点
 1. 去掉了源代码关于CMS的部分，只保留了前端的部分代码
@@ -29,19 +27,6 @@
 * 界面略朴素，各位有前端能力的自己修改吧
 * 功能部分是按照我自己的想法来的，如果裁剪过度，建议参考原先项目和网页界面进行修改添加
 
-### 建议和改进
-1. github提issue
-2. 发送邮件到 bituplink@protonmail.com
-
-
-### 捐助
-为了修改这份代码我也是花费了近一个星期才搞定，很是用心，如果你觉得代码对你有用就拿去用吧，愿意赞助一点的我表示开心，或者分享出去让更多的人使用也是好的
-
-方式一: 支付宝捐助
-* ![alipay](http://www.bituplink.com/wp-content/uploads/alipay.png)
-
-方式二: 微信捐助
-* ![wxpay](http://www.bituplink.com/wp-content/uploads/wxpay.png)
 
 ### license
 这是基于小呆导航MIT协议的代码进行开发的，为了遵守协议规定，license文件和界面声明我都保留了，使用的时候建议大家也遵守协议规定
