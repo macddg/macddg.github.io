@@ -1,5 +1,6 @@
 # OneHtmlNav
-本网页改编自 bituplink/OneHtmlNav 项目https://github.com/bituplink/OneHtmlNav
+本网页改编自 bituplink/OneHtmlNav 项目（https://github.com/bituplink/OneHtmlNav）
+
 以下说明内容完全引用：
 这是基于小呆导航的超级精简版本，之所以投入了不少精力折腾这个导航，是之前自己网站的导航有点功能不足，看到了小呆导航有我需要的功能，但是确是基于CMS的，有点复杂我又不想再搭建一个平台，所以就打算去除掉一些不需要的功能，只实现网址导航这个功能，所以就拿过来精简了，由于定的是这个目标所以界面美化什么的就不要追求了，我前端代码能勉强看懂就不错了，所以各位如果有精力可以自己琢磨或者参考官网美化一下
 
